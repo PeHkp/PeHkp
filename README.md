@@ -1,16 +1,29 @@
-### Hi there 👋
+ <h2>Welcome to my github! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**PeHkp/PeHkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-PedroKirstein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-kirstein/)](https://www.linkedin.com/in/pedro-kirstein/) 
+[![Instagram](https://img.shields.io/badge/-@pedrohkp-c14438?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrohkp/)](https://www.instagram.com/pedrohkp/)
+[![Gmail](https://img.shields.io/badge/-pedro.kirstein@outlook.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.kirstein@outlook.com)](mailto:pedro.kirstein@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me :mortar_board:
+I am a student, currently studying Software Engineer in PUCPR. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+
+## What I know :computer:
+- **Backend Development**
+	- Python 
+	- Dart
+	- Java-Script with Node.Js ❤️
+  - Java
+  - PHP
+- **Frontend Development**
+	- HTML, CSS and Javascript
+	- Flutter
+	- React.js
+	- React Native
+  - WordPress
+
+
+## Hello World!! 🤔
+- 🎯 Personal web site: [Web Site](https://pedrokirstein.com.br/)
+- 🔔 Subscribe:- [Pedro Kirstein](https://www.youtube.com/channel/UCcnNKa-3hwmdtZkRP5Iwn-Q?view_as=subscriber)
