@@ -15,7 +15,6 @@ I am a student, currently studying Software Engineer in PUCPR. From very early o
 	- Dart
 	- Java-Script with Node.Js ❤️
   - Java
-  - PHP
 - **Frontend Development**
 	- HTML, CSS and Javascript
 	- Flutter
