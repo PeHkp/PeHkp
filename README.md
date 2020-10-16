@@ -14,10 +14,12 @@ I am a student, currently studying Software Engineer in PUCPR. From very early o
 	- Python 
 	- Dart
 	- Java-Script with Node.Js ❤️
+	- Type-Script
   - Java
 - **Frontend Development**
 	- HTML, CSS and Javascript
 	- Flutter
+	- Angular
 	- React.js
 	- React Native
   - WordPress
