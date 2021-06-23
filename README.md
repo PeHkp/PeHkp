@@ -11,18 +11,17 @@ I am a student, currently studying Software Engineer in PUCPR. From very early o
 
 ## What I know :computer:
 - **Backend Development**
-	- Python 
 	- Dart
-	- Java-Script with Node.Js ❤️
+	- Java-Script with Node.Js 
 	- Type-Script
-  - Java
+	
 - **Frontend Development**
-	- HTML, CSS and Javascript
-	- Flutter
 	- Angular
 	- React.js
+
+- **Mobile Development**
+	- Flutter
 	- React Native
-  - WordPress
 
 
 ## More things !! 🤔
