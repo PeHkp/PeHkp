@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-pedro.kirstein@outlook.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.kirstein@outlook.com)](mailto:pedro.kirstein@outlook.com)
 
 ## About me :mortar_board:
-I am a student, currently studying Software Engineer in PUCPR. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a Mobile engineer, currently studying Software Engineer. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 - **Languages**
