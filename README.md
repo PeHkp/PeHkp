@@ -1,32 +1,26 @@
- <h2>Welcome to my github! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# Hi, I'm Pedro Kirstein 👋
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+**Senior Mobile Engineer**
 
-[![Linkedin](https://img.shields.io/badge/-PedroKirstein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-kirstein/)](https://www.linkedin.com/in/pedro-kirstein/) 
-[![Instagram](https://img.shields.io/badge/-@pedrohkp-c14438?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrohkp/)](https://www.instagram.com/pedrohkp/)
-[![Gmail](https://img.shields.io/badge/-pedro.kirstein@outlook.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.kirstein@outlook.com)](mailto:pedro.kirstein@outlook.com)
+São Paulo, Brazil 🇧🇷 → Berlin, Germany 🇩🇪 (relocating 2025)
 
-## About me :mortar_board:
-I am a Mobile engineer, currently studying Software Engineer. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+---
 
-## What I know :computer:
-- **Languages**
-	- Dart
-	- Java-Script
-	- Type-Script
-	
-- **Backend Development**
-	- Node.Js 
-	
-- **Frontend Development**
-	- Angular
-	- React.js
+## 🚀 About Me
 
-- **Mobile Development**
-	- Flutter
-	- React Native
+I’m a mobile engineer passionate about crafting high‑quality, cross‑platform experiences. Over the last **4+ years** I’ve built, scaled and shipped apps that serve **millions of users**—leveraging **Flutter, Kotlin, Swift, and React Native** while integrating complex APIs, cloud services and automated pipelines. I thrive in collaborative, fast‑moving teams where clean architecture, code quality and continuous learning drive success.
 
+* **Impact‑driven**: Grew app downloads +150 % at SóCarrão.com by optimising visibility & UX.
+* **Quality first**: Reduced crash rates up to 40 % with Firebase Crashlytics & rigorous testing.
+* **Automation fan**: Slashed deployment time 40 % with Bitrise CI/CD.
+* **Cloud‑savvy**: Experience across **Firebase · Google Cloud · AWS · Azure**.
 
-## More things !! 🤔
-- 🎯 Personal web site: [Web Site](https://pedrokirstein.com.br/)
-- 🔔 Subscribe:- [Pedro Kirstein](https://www.youtube.com/channel/UCcnNKa-3hwmdtZkRP5Iwn-Q?view_as=subscriber)
+## 🛠 Tech Stack
+
+| Mobile                                                                                                                                                                                                                                                                                                                                                                                                      | Languages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Web / Backend                                                                                                                                                                                                                                                                                      | Cloud & DevOps                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter\&logoColor=white\&style=flat) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react\&logoColor=white\&style=flat) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android\&logoColor=white\&style=flat) ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple\&logoColor=white\&style=flat) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart\&logoColor=white\&style=flat) ![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?logo=kotlin\&logoColor=white\&style=flat) ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift\&logoColor=white\&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=flat) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go\&logoColor=white\&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java\&logoColor=white\&style=flat) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=white\&style=flat) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular\&logoColor=white\&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js\&logoColor=white\&style=flat) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase\&logoColor=black\&style=flat) ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud\&logoColor=white\&style=flat) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws\&logoColor=white\&style=flat) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure\&logoColor=white\&style=flat) |
+
+---
+
+*“Crafting pixel‑perfect apps today, driving innovation tomorrow.”*
